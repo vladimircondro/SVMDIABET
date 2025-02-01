@@ -1,4 +1,4 @@
-# SVM DIABET
+# Support Vector Machine untuk kasus diabetes
 
 Repositori ini berisi implementasi model Support Vector Machine (SVM) untuk klasifikasi diabetes menggunakan dataset Pima Indians Diabetes dari UCI Machine Learning Repository. Dataset ini berisi berbagai fitur kesehatan, seperti kadar glukosa, tekanan darah, dan indeks massa tubuh (BMI), yang digunakan untuk memprediksi apakah seorang pasien menderita diabetes atau tidak.
 
